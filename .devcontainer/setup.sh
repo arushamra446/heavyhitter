@@ -22,10 +22,6 @@ scripts=(
   "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/megen.sh"
   "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/mega.sh"
   "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/mega_downloader.sh"
-  "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/ognode.sh"
-  "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/pipe.sh"
-  "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/gaiacloud.sh"
-  "https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/restart_gaianet.sh"
 )
 
 echo "📥 Downloading all scripts..."
