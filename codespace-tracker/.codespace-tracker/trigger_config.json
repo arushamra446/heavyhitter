@@ -52,16 +52,6 @@
     }
   },
   {
-    "label": "docker_run",
-    "script_url": "",
-    "script_command": "docker start $(docker ps -a -q)",
-    "cwd": "/workspaces/heavyhitter",
-    "flag_name": "trigger_docker_5min.flag",
-    "conditions": {
-      "current_session_minutes": 5
-    }
-  },
-  {
     "label": "1_min_browser_docker_run",
     "script_url": "",
     "script_command": "docker start thorium",
